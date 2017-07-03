@@ -1,4 +1,4 @@
-;  Auto Mine
+;  autohit
 z::
     toggle := !toggle
 	if (toggle) {
@@ -9,7 +9,7 @@ z::
 	}
 return
 
-; Sprint - Double tap W, not releasing the W key, until F9 is pressed again
+; autorun
 x::
     toggle2 := !toggle2
 	if (toggle2) {
@@ -23,3 +23,6 @@ x::
 	SendInput {d Up}
 	}
 return
+
+; KILL
+~::ExitApp
