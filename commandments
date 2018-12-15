@@ -8,3 +8,8 @@ bucket of water
 door-plates
 torch one side
 torch stairs 2nd block
+# REWARD ################
+inter-realm-annoucements: $title
+inter-realm-buffs
+inter-realm-drops
+
