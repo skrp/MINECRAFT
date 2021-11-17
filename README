@@ -1,8 +1,11 @@
 ###################################
 # MINECRAFT - the journey of blocks
 ###################################
-Minecraft worlds networked to one rep
+aRUN.ahk - auto hot key for auto-mine or auto-run
+epic_hcmc.pl - minecraft daemon which transports the user and gives buff 100% vanilla
 
+Minecraft worlds able networked to one rep
+Registered minecraft username may retain persistant network rep over multiple worlds which is critical for Hardcore Mode
 # rep #############################
 registered-nick shared on network 
 life on world reps your nick to all worlds
